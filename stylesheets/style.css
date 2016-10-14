@@ -1,0 +1,28 @@
+.ui-page{
+	font: 16px/22px 'lato', arial;
+	
+}
+#header .ui-header .ui-title{
+	font-size: 30px;
+}
+#header .ui-header{
+	background-color: #911B0F;
+	color: #fff;
+	border-bottom: 4px solid #D6BE82;
+	
+}
+.ui-page{
+	background: url(../images/stanford.png) no-repeat;
+	width: 100%;
+
+}
+
+#list .ui-btn{
+	background-color: #F3EED8;
+}
+#header .ui-btn{
+	background-color: #911B0F;
+	color: #fff;
+	border: 1px solid #6C0903;
+	border-radius: 50px;
+}
